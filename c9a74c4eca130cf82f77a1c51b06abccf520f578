@@ -1,0 +1,1 @@
+{"jobID":"1ebf3043-4c27-8198-fdba-20e6e2275c2f","spec":{"type":"policy","cause":{"Message":"Does work","User":""},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
